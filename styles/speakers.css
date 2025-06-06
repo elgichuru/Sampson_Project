@@ -32,3 +32,8 @@ header{
 
     border-bottom: 2px solid orange;
 }
+/* Styles for the article */
+article{
+    width: 535px;
+    
+}
