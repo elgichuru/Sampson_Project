@@ -35,5 +35,6 @@ header{
 /* Styles for the article */
 article{
     width: 535px;
+    float: left;
     
 }
