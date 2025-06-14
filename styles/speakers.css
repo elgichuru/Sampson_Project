@@ -36,5 +36,34 @@ header{
 article{
     width: 535px;
     float: left;
+    column-count: 2;
+    /*column-rule: 1px solid orangered;*/
     
+}
+article p{
+    margin-left: 20px ;
+    
+}
+article img{
+    float: left;
+    margin-left: 20px;
+    margin-right: 10px;
+}
+
+aside{
+    float: right;
+    width: 400px;
+    background-color: #ffebc6;
+    margin-right: 15px;
+}
+/* Styles for the footer */
+footer{
+    clear: both;
+    border-top: 2px solid orange;
+
+}
+footer p{
+    text-align: right;
+    margin-right: 20px;
+
 }
